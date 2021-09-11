@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lrx.github.io</id>
+    <id>https://lrxtzm.github.io</id>
     <title>lrxtzm</title>
-    <updated>2021-09-11T05:02:13.848Z</updated>
+    <updated>2021-09-11T05:03:41.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lrx.github.io"/>
-    <link rel="self" href="https://lrx.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lrxtzm.github.io"/>
+    <link rel="self" href="https://lrxtzm.github.io/atom.xml"/>
     <subtitle>我们的世界</subtitle>
-    <logo>https://lrx.github.io/images/avatar.png</logo>
-    <icon>https://lrx.github.io/favicon.ico</icon>
+    <logo>https://lrxtzm.github.io/images/avatar.png</logo>
+    <icon>https://lrxtzm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, lrxtzm</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lrx.github.io/hello-gridea/</id>
-        <link href="https://lrx.github.io/hello-gridea/">
+        <id>https://lrxtzm.github.io/hello-gridea/</id>
+        <link href="https://lrxtzm.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
