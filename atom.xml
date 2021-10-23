@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lrxtzm.github.io</id>
     <title>Lost Tailor</title>
-    <updated>2021-09-30T13:34:05.093Z</updated>
+    <updated>2021-10-23T10:40:03.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lrxtzm.github.io"/>
     <link rel="self" href="https://lrxtzm.github.io/atom.xml"/>
@@ -11,22 +11,12 @@
     <icon>https://lrxtzm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Lost Tailor</rights>
     <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://lrxtzm.github.io/</id>
-        <link href="https://lrxtzm.github.io/">
-        </link>
-        <updated>2021-09-30T12:38:31.000Z</updated>
-        <content type="html"><![CDATA[<p>agfasgvs</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[欢迎😁]]></title>
         <id>https://lrxtzm.github.io/huan-ying/</id>
         <link href="https://lrxtzm.github.io/huan-ying/">
         </link>
         <updated>2021-09-11T09:38:26.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一个开设不久的网站，用来写下两个人曾经经历的时光。<br>
-<img src="https://lrxtzm.github.io/post-images/1631353207517.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>这是一个开设不久的网站，用来写下两个人曾经经历的时光。</p>
 ]]></content>
     </entry>
 </feed>
